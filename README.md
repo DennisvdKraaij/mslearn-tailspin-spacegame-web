@@ -1,4 +1,4 @@
-
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=soace-game-web-DvdK1971&metric=alert_status)](https://sonarcloud.io/dashboard?id=soace-game-web-DvdK1971)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
